@@ -4,3 +4,7 @@ main: de.spawnwither.spawnwither.SpawnWither
 api-version: 1.16
 authors: [ LambdaSpg ]
 description: Spawns wither when killing a mob
+
+commands:
+  activate:
+    description: yay
